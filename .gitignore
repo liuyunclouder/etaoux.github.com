@@ -1,0 +1,10 @@
+.tmp_*
+.project
+*.bat
+.idea*
+.DS_Store
+
+.sass-cache
+
+_site
+_deploy
