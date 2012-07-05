@@ -36,3 +36,4 @@ Linux 用户，使用系统所用的包管理工具安装即可：
 文章都在 `_posts` 目录下
 
 样式与脚本分别在 `assets/css` 与 `assets/js`
+
